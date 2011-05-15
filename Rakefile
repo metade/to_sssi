@@ -19,7 +19,7 @@ spec = Gem::Specification.new do |s|
 
   # Change these as appropriate
   s.name              = "to_sssi"
-  s.version           = "0.1.0"
+  s.version           = "0.1.1"
   s.summary           = "Convert Ruby objects into SSSI variables."
   s.author            = "Patrick Sinclair"
   s.email             = "patrick.sinclair@bbc.co.uk"
